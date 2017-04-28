@@ -14,3 +14,6 @@ A high-level vision for this project - analyze basic trends in the appearance of
 - [ ] Scrape Reddit for data
 - [ ] Find a good Python data visualization library 
 - [ ] Launch this as a web application on my website
+
+## License
+TBD, but MIT.
